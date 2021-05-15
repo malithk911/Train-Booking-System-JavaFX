@@ -1,0 +1,48 @@
+
+━━━━━━━━━━━━━━━━━━━━━ SIMULATION REPORT ━━━━━━━━━━━━━━━━━━━━━
+
+No. of passengers in waiting room : 9
+No. of passengers added to queue : 2
+
+
+━━━━━━━━━━━━━━━━━━━━━ Passenger Statistics ━━━━━━━━━━━━━━━━━━━━━
+
+Malith A1 individual waiting time : 12 seconds
+Malith A1 waited in queue for 12 seconds
+Malith A1 in queue position : 1
+
+Olu A2 individual waiting time : 11 seconds
+Olu A2 waited in queue for 23 seconds
+Olu A2 in queue position : 2
+
+Ruwinya A3 individual waiting time : 4 seconds
+Ruwinya A3 waited in queue for 27 seconds
+Ruwinya A3 in queue position : 3
+
+Amiru C1 individual waiting time : 11 seconds
+Amiru C1 waited in queue for 38 seconds
+Amiru C1 in queue position : 4
+
+Charindu C2 individual waiting time : 14 seconds
+Charindu C2 waited in queue for 52 seconds
+Charindu C2 in queue position : 5
+
+Radhika C3 individual waiting time : 17 seconds
+Radhika C3 waited in queue for 69 seconds
+Radhika C3 in queue position : 6
+
+Lochana E1 individual waiting time : 7 seconds
+Lochana E1 waited in queue for 76 seconds
+Lochana E1 in queue position : 7
+
+Kasun F2 individual waiting time : 8 seconds
+Kasun F2 waited in queue for 84 seconds
+Kasun F2 in queue position : 8
+
+
+━━━━━━━━━━━━━━━━━━━━━━ Queue Statistics ━━━━━━━━━━━━━━━━━━━━━
+
+Min waiting time of a passenger : 4 seconds
+Max waiting time of a passenger : 17 seconds
+Total waiting time of queue : 84 seconds
+Average waiting time : 10 seconds
